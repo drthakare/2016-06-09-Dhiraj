@@ -1,8 +1,8 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "https://github.com/drthakare/2016-06-09-Dhiraj"
-workshop_site   : "https://github.com/drthakare/2016-06-09-Dhiraj"
+workshop_repo   : "https://github.com/drthakare/2016-06-09-Dhiraj.git"
+workshop_site   : "https://github.com/drthakare/2016-06-09-Dhiraj/edit/gh-pages/_config.yml"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
